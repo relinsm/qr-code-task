@@ -44,6 +44,7 @@ p {
 @media screen and (max-width: 480px) {
   #card {
     margin-top: 25px;
-    width: 93%;
+    width: 320px;
+    height: 500px;
   }
 }
